@@ -1,0 +1,4 @@
+goose
+*.log
+.DS_Store
+.tmux.conf.local
